@@ -1,0 +1,17 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "Prisma.prisma",
+        "foxundermoon.shell-format",
+        "yzhang.markdown-all-in-one",
+        "mikestead.dotenv",
+        "styled-components.vscode-styled-components",
+        "github.vscode-pull-request-github",
+        "mhutchie.git-graph",
+        "donjayamanne.githistory",
+        "github.vscode-github-actions",
+        "eamodio.gitlens",
+        "yzhang.markdown-all-in-one"
+    ]
+}
